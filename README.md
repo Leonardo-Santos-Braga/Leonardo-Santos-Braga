@@ -8,5 +8,9 @@ Apaixonado por desafios e resolução de problemas, venho aprimorando minhas hab
 
 Atualmente dedicado ao aperfeiçoamento em desenvolvimento web, lógica de programação e boas práticas de desenvolvimento, com o objetivo de crescer continuamente como profissional da tecnologia.
 
+## Contato 
 
+<p aling="center">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+  
 
