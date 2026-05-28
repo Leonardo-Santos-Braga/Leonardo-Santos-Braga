@@ -10,8 +10,10 @@ Atualmente dedicado ao aperfeiçoamento em desenvolvimento web, lógica de progr
 
 ## Contato 
 
-<p aling="center">
+<p align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
+  <a href="[https://www.linkedin.com/feed/" target="_blank](https://www.instagram.com/bragleonardo?igsh=N3hvZjh2ZTZ0bjB1&utm_source=qr)">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<a/>
