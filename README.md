@@ -6,7 +6,7 @@
 
 Desenvolvedor Full Stack em formação pela Petrobras
 
-Tenho interesse constante em aprender novas linguagens, ferramentas e metodologias que contribuam para minha evolução profissional na área de TI. Busco transformar conhecimento em soluções práticas, criando projetos que unem criatividade, funcionalidade e eficiência.
+Tenho 18 anos, moro em Canoas/RS, e busco constantemente aprender novas linguagens, ferramentas e metodologias que contribuam para minha evolução profissional na área de TI. Busco transformar conhecimento em soluções práticas, criando projetos que unem criatividade, funcionalidade e eficiência.
 
 ## Formações 
 
