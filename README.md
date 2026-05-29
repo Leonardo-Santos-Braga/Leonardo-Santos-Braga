@@ -4,13 +4,23 @@
   
   ## Olá Bem vindo(a), sou Leonardo Braga 
 
-Desenvolvedor Full Stack em formação pela Petrobras, com forte entusiasmo por tecnologia, inovação e desenvolvimento de software.
+Desenvolvedor Full Stack em formação pela Petrobras
 
 Tenho interesse constante em aprender novas linguagens, ferramentas e metodologias que contribuam para minha evolução profissional na área de TI. Busco transformar conhecimento em soluções práticas, criando projetos que unem criatividade, funcionalidade e eficiência.
 
-Apaixonado por desafios e resolução de problemas, venho aprimorando minhas habilidades tanto no front-end quanto no back-end, sempre focado na construção de aplicações modernas, intuitivas e de alta performance.
+## Formações 
 
-Atualmente dedicado ao aperfeiçoamento em desenvolvimento web, lógica de programação e boas práticas de desenvolvimento, com o objetivo de crescer continuamente como profissional da tecnologia.
+Eletricista Industrial
+
+Caldeiraria 
+
+## Futuros desafios 
+
+Ser efetivado no trabalho
+
+Conquistar um carro
+
+Sair desse curso aprendendo a programar
 
 ## Contato 
 
